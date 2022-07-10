@@ -11,7 +11,6 @@
 ✉️ &nbsp;You can shoot me an email at pablo.pees@gmail.com! I'll try to respond as soon as I can .\
 📄 &nbsp;Please have a look at my [Résumé](http://www.pabloescobardev.click:5001/)
 
-<img alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
