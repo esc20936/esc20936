@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to keep learning new technologies.\
 🎓 &nbsp;I'm currently studying Computer Science at Universidad del Valle de Guatemala.\
 🌱 &nbsp;I'm on track for learning more about Web development, mobile development, ciber security and AI.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and I really enjoy playing guitar, check one of my youtube videos: https://youtu.be/gVDAvzpBeBU .\
