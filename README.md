@@ -7,8 +7,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at Universidad del Valle de Guatemala.\
 🌱 &nbsp;I'm on track for learning more about Web development, mobile development, ciber security and AI.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and I really enjoy playing guitar, check one of my youtube videos: https://youtu.be/gVDAvzpBeBU.\
-✉️ &nbsp;You can shoot me an email at pablo.pees@gmail.com! I'll try to respond as soon as I can.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and I really enjoy playing guitar, check one of my youtube videos: https://youtu.be/gVDAvzpBeBU .\
+✉️ &nbsp;You can shoot me an email at pablo.pees@gmail.com! I'll try to respond as soon as I can .\
 📄 &nbsp;Please have a look at my [Résumé](http://www.pabloescobardev.click:5001/)
 
 <img alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"/>
@@ -40,4 +40,4 @@
 -----
 Shut out to: [Aditya Vikram Singh](https://github.com/AVS1508) for this amazing readme Idea
 
-Last Edited on: 11/12/2020
+Last Edited on: 09/07/2022
