@@ -38,6 +38,6 @@
 
 
 -----
-Shut out to: [Aditya Vikram Singh](https://github.com/AVS1508) for this amazing readme Idea
+Special mention to: [Aditya Vikram Singh](https://github.com/AVS1508) for this amazing readme Idea
 
 Last Edited on: 09/07/2022
