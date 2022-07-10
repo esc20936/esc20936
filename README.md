@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Web development, mobile development, ciber security and AI.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and I really enjoy playing guitar, check one of my youtube videos: https://youtu.be/gVDAvzpBeBU .\
 ✉️ &nbsp;You can shoot me an email at pablo.pees@gmail.com! I'll try to respond as soon as I can .\
-📄 &nbsp;Please have a look at my [Résumé](http://www.pabloescobardev.click:5001/)
+📄 &nbsp;Please have a look at my [portafolio](http://www.pabloescobardev.click:5001/)
 
 
 ### 🛠 &nbsp;Tech Stack
